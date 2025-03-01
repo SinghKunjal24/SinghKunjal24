@@ -1,4 +1,3 @@
-```markdown
 # Hi there! I'm Kunjal Singh 
 
 🚀 **MBA (Data Science & AI) @ IIT Mandi** | **Computer Science Graduate** | **Data Enthusiast**  
@@ -51,5 +50,3 @@ I'm passionate about data science, AI, and analytics. With a background in Compu
 ## 📫 Get in Touch!  
 📧 Email: [mb24036@students.iitmandi.ac.in](mailto:mb24036@students.iitmandi.ac.in)  
 🔗 LinkedIn: [kunjal-singh](https://www.linkedin.com/in/kunjal-singh)  
-```
-
